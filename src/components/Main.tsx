@@ -99,7 +99,6 @@ class Main extends Component<IProps, IState> {
       });
     }
   };
-  //this function fetch the list of users
 
   render() {
     const { account, rethBalance, weenusTokenBalance } = this.state;
